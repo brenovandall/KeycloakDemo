@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35514.174 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KeycloakAuth", "KeycloakAuth\KeycloakAuth.csproj", "{243A4A6D-8F9A-4800-9C89-96F4B5A65871}"
+EndProject
+Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{A93B6D1D-7C9F-43EE-B4CE-D2799F65EBA5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{243A4A6D-8F9A-4800-9C89-96F4B5A65871}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{243A4A6D-8F9A-4800-9C89-96F4B5A65871}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{243A4A6D-8F9A-4800-9C89-96F4B5A65871}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{243A4A6D-8F9A-4800-9C89-96F4B5A65871}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A93B6D1D-7C9F-43EE-B4CE-D2799F65EBA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A93B6D1D-7C9F-43EE-B4CE-D2799F65EBA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A93B6D1D-7C9F-43EE-B4CE-D2799F65EBA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A93B6D1D-7C9F-43EE-B4CE-D2799F65EBA5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
